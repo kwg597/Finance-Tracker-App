@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_transaction"
+        android:icon="@drawable/ic_add_transaction"
+        android:title="@string/add_transaction" />
+    <item
+        android:id="@+id/manage_budget"
+        android:icon="@drawable/ic_manage_budget"
+        android:title="@string/budget_management" />
+    <item
+        android:id="@+id/backup"
+        android:icon="@drawable/ic_backup"
+        android:title="@string/backup_amp_restore" />
+</menu>
